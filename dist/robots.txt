@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-jv-concrete-hardscape-llc.dream-surge.com/sitemap-index.xml
